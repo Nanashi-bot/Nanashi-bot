@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 
 ## Feel free to connect
-[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ghosh-datascience//)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ghosh-datascience)
 [![Mail](https://img.shields.io/badge/Mail-critical?logo=gmail&logoColor=white)](mailto:adityaghosh2772@gmail.com)
