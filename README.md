@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Aditya Ghosh</h1>
 <h4 align="center">I'm a Data Scientist and AI Enthusiast</h4>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nanashi-bot&color=blueviolet" alt="nanashi-bot" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nanashi-bot&color=blueviolet" alt="nanashi-bot" /> </p>
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects
-- 🌱 I’m currently learning [AR Core](), [Three.js]() and [App Dev]()
+- 🌱 I’m currently learning Natural Language Processing (NLP) techniques, Statistical modeling and hypothesis testing
 - 👯 I’m looking to collaborate on Data Science or Deep Learning Projects
 - 💬 Ask me about NLP
 - 📫 How to reach me: adityaghosh2772@gmail.com
@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)]()
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/shunphoenix55?tab=repositories&q=&type=&language=c++)
 [![Flask](https://img.shields.io/badge/-Flask-000?-&logo=flask)]()
+[![Docker](https://img.shields.io/badge/-Docker-000?-&logo=docker)]()
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=sql)]()
+[![R](https://img.shields.io/badge/-R-000?&logo=r)]()
+[![Pytorch](https://img.shields.io/badge/-Pytorch-000?&logo=pytorch)]()
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)]()
+[![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)]()
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)]()
 <br>
 
 
