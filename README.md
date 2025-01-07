@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## Github Stats
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=nanashi-bot&&show_icons=true&theme=synthwave&hide_border=true" max-width="100%" width="450px">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanashi-bot&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+	<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanashi-bot&theme=synthwave&hide_border=true" max-width="100%" width="450px">  -->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanashi-bot&layout=compact&theme=synthwave&hide_border=true" max-width="100%" width="450px">
 </p>
 <br>
